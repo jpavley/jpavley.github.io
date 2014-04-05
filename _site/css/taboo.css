@@ -1,0 +1,39 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
+body {
+  background-color: #000;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%; }
+
+h1 { margin-bottom: 1em; }
+p { margin: 1em 0; }
+
+a         { color: #00a; }
+a:hover   { color: #000; }
+a:visited { color: #a0a; }
+
+/* home page */
+
+h1 {
+  padding: 6px 6px 6px 6px;  
+  font-size: 200%;
+  color: #00ffff;
+}
+
+h2 {
+  padding: 6px 6px 6px 6px;  
+  font-size: 120%;
+  color: #fff;
+}
