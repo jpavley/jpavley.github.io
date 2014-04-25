@@ -37,3 +37,10 @@ h2 {
   font-size: 120%;
   color: #fff;
 }
+
+.center
+{
+  margin-left:auto;
+  margin-right:auto;
+  width:70%;
+}
